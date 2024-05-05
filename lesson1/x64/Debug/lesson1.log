@@ -1,0 +1,5 @@
+﻿  lesson1.cpp
+C:\Users\sara\Desktop\it\c++\lesson1\lesson1\lesson1\lesson1.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  rectangle.cpp
+  Generating Code...
+  lesson1.vcxproj -> C:\Users\sara\Desktop\it\c++\lesson1\lesson1\x64\Debug\lesson1.exe
